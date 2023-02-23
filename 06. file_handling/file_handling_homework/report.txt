@@ -1,0 +1,16 @@
+.css
+- - - demo.css
+.html
+- - - index.html
+.js
+- - - index.js
+.py
+- - - directory_traversal.py
+- - - even_lines.py
+- - - file_manipulator.py
+- - - line_numbers.py
+.txt
+- - - line_numbers_output.txt
+- - - report.txt
+- - - some_file.txt
+- - - text.txt
